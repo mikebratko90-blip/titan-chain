@@ -3,7 +3,7 @@
 ![Titan Chain Logo](logo/logo.png)
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-blue.svg)](https://golang.org)
-[![License: MIT](https://img.shields.io/badge/License-Apache2.0-green.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache2.0](https://img.shields.io/badge/License-Apache2.0-green.svg)](https://opensource.org/licenses/MIT)
 
 
 **Titan Chain** is a blockchain project built on the **Cosmos SDK** and **Tendermint**. Its goal is to provide core infrastructure for the decentralized computing and decentralized physical infrastructure network (**DePIN**) ecosystem.
